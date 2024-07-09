@@ -1,0 +1,10 @@
+.Home {
+    display: flex;
+    flex-direction: row;
+}
+.home__nav {
+    flex: 0.2;
+}
+.home__timeline {
+    flex: 0.8;
+}
